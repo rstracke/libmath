@@ -1,4 +1,4 @@
-#include "../includes/complex.h"
+#include "complex.h"
 
 t_cmplx         cmplx_conj(t_cmplx z)
 {
